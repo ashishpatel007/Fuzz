@@ -7,3 +7,5 @@ A Steinberg VST Fuzz effect tutorial
 4. Build the Fuzz project and wait to finish
 5. Navigate to (..\VST_SDK\VST3_SDK\my_plugins\Fuzz\build\VST3\Debug) file path
 6. Add the Fuzz.vst3 to the file path of your favourite DAW (Digital Audio Workstation) to use the effect
+
+VST with source files can be found here (https://drive.google.com/drive/folders/1zT6j3_o5O-niFGLSFOzJfv7ermOLgsP1)
